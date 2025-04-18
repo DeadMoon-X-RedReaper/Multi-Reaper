@@ -18,7 +18,7 @@ All required modules will be installed automatically.
 
 ---
 
-✅ Requirements
+✅ Requirements                                                                                                                                                                                                                                                                
 Python                                                                                                                                                                                                                                                                        
 Node.js                                                                                                                                                                                                                                                                        
 Operating System: Windows
