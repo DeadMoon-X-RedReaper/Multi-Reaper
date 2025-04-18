@@ -19,8 +19,8 @@ All required modules will be installed automatically.
 ---
 
 ✅ Requirements
-Python
-Node.js
+Python                                                                                                                                                                                                                                                                        
+Node.js                                                                                                                                                                                                                                                                        
 Operating System: Windows
 
 ---
